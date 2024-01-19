@@ -1,0 +1,30 @@
+.paragraph{
+    color:blue;
+    margin-top: 5%;
+
+
+}
+
+
+.paragraph-container{
+    border-radius: 10px;
+    background-color: aquamarine;
+    border:3px dashed burlywood;
+    width:150px;
+    height: 90px;;
+
+}
+.container{
+    display: flex;
+    justify-content: flex-start;
+}
+table,tr{
+    border: chartreuse;
+    color: palevioletred;
+}
+td,th {
+    color:black;
+}
+* {
+    color:cadetblue;
+}
