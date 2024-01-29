@@ -1,0 +1,47 @@
+.box1{
+    height: 50px;
+    width:30px;
+    font-size: 50px;
+    background-color: aqua;
+    margin-bottom: 2px;
+    border-radius: 3px;
+    border: 0.5px solid black;
+   
+
+}
+.box2{
+    height: 30px;
+    width:30px;
+    background-color: rgb(255, 0, 157);
+    margin-bottom: 2px;
+    border-radius: 3px;
+    border: 0.5px solid black;
+
+}
+.box3{
+    height: 30px;
+    width:30px;
+    background-color: rgb(200, 255, 0);
+    margin-bottom: 2px;
+    border-radius: 3px;
+    border: 0.5px solid black;
+
+}
+.box4{
+    height: 30px;
+    width:30px;
+    background-color: rgba(0, 255, 255, 0.833);
+    margin-bottom: 2px;
+    border-radius: 3px;
+    border: 0.5px solid black;
+    display: flex;
+    justify-content: center;
+
+
+}
+.container{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    
+}
